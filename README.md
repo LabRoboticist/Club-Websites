@@ -10,3 +10,8 @@ First rendition of the Robotics club Website!
 * Biology
 * CS
 * ... (More are anticipated and welcomed)
+
+## Features to be added when hardware is avilible
+* Truenas Capabilties
+* Access to a Media server like Jellyfin
+Do to missc.....
