@@ -14,4 +14,7 @@ First rendition of the Robotics club Website!
 ## Features to be added when hardware is avilible
 * Truenas Capabilties
 * Access to a Media server like Jellyfin
-Do to missc.....
+<P>
+  The originall plan for all of these websites was for them to be hosted on the "main server" along with the minecraft server.
+</P>
+
