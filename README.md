@@ -20,3 +20,5 @@ First rendition of the Robotics club Website!
   The originall plan for all of these websites was for them to be hosted on the "main server" along with the minecraft server as a docker image. The plan was to have the Minecraft virtual machine, webserver (hosting the websites), Media server virtaual machine, virtual NAS, and other virtual machines to pentest on. Those pentested virtual machines would have been OSs like Windows Xp, Kali Purple, Ubuntu, and some older version of MacOs. ...This was unfortunatletly not do-able because of some miscommunication.
 </P>
 
+### The plan as of NOW
+
