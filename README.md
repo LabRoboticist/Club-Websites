@@ -13,7 +13,7 @@ First rendition of the Robotics club Website!
 
 ## Features to be added when hardware is avilible
 * [TrueNas](https://truenas.com) Capabilties
-* Access to a Media server like Jellyfin
+* Access to a Media server like [Jellyfin](https://jellyfin.org)
 
 ### OG plan
 <P>
